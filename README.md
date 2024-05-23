@@ -80,11 +80,11 @@ This Windows application is a comprehensive solution for managing and ordering b
 4. Execute the SQL script provided in the `Database` folder to set up the database.
 5. Update the `appsettings.cs` file
 6. Build and run the application.
-
+   
 ## Usage
 
-- **Customer Login**: Use the provided credentials to log in as a customer and start ordering burgers.
-- **Admin Login**: Use the provided admin credentials to access the admin interface and manage the application.
+- **Customer Login**: Use the provided credentials to log in as a customer and start ordering burgers.(username = user , password = user )
+- **Admin Login**: Use the provided admin credentials to access the admin interface and manage the application.(username = admin , password = admin )
 
 ## Contribution
 
